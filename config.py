@@ -231,27 +231,16 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
     RKN_PROGRESS = """<b>
 ╭━━━━━━━━━━━━━━━━━━━❰📤 PROGRESS BAR 📥❱━━━━━━━━━━━━━━━━━━━╮
 
-┃ 🔹 <b>Task:</b> {5}
-┃ 🔹 <b>Status:</b> {0}% [{6}]
+┃ 🔹 <b>Flow:</b> [{6}] {0}%
 ┃
-┃ 📦 <b>Size:</b> {1} / {2}
+┃ 📦 <b>Size:</b> {1} / {2} ({7})
 ┃ 🚀 <b>Speed:</b> {3}/s
-┃ ⏱️ <b>Last Update:</b> {4}
+┃ ⏱️ <b>Time:</b> {4}
 ┃
 ┃ 🕒 <b>Started:</b> {8}
 ┃ 🔋 <b>ETA:</b> {9}
 
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━◉❰🚀❱◉━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
-</b>"""
-
-ERROR_TEMPLATE = """<b>
-⚠️ <u>ERROR UPDATE</u> ⚠️
-
-• <b>Task:</b> <code>{0}</code>
-• <b>Error:</b> <code>{1}</code>
-• <b>Time:</b> {2}
-
-<i>Check logs and retry...</i>
 </b>"""
 
 # Rkn Developer 
