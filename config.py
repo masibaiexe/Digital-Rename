@@ -231,16 +231,27 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
     RKN_PROGRESS = """<b>
 ╭━━━━━━━━━━━━━━━━━━━❰📤 PROGRESS BAR 📥❱━━━━━━━━━━━━━━━━━━━╮
 
-┃ 🔹 <b>Flow:</b> <span style="color:#2ecc71;">[{6}] {0}%</span>
+┃ 🔹 <b>Task:</b> {5}
+┃ 🔹 <b>Status:</b> {0}% [{6}]
 ┃
-┃ 📦 <span style="color:#f39c12;">Size:</span> {1} / {2} ({7})
-┃ 🚀 <span style="color:#9b59b6;">Speed:</span> {3}/s
-┃ ⏱️ <span style="color:#1abc9c;">Time:</span> {4}
+┃ 📦 <b>Size:</b> {1} / {2}
+┃ 🚀 <b>Speed:</b> {3}/s
+┃ ⏱️ <b>Last Update:</b> {4}
 ┃
-┃ 🕒 <span style="color:#95a5a6;">Started:</span> {8}
-┃ 🔋 <span style="color:#3498db;">ETA:</span> {9}
+┃ 🕒 <b>Started:</b> {8}
+┃ 🔋 <b>ETA:</b> {9}
 
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━◉❰🚀❱◉━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+</b>"""
+
+ERROR_TEMPLATE = """<b>
+⚠️ <u>ERROR UPDATE</u> ⚠️
+
+• <b>Task:</b> <code>{0}</code>
+• <b>Error:</b> <code>{1}</code>
+• <b>Time:</b> {2}
+
+<i>Check logs and retry...</i>
 </b>"""
 
 # Rkn Developer 
