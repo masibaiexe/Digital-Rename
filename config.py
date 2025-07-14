@@ -229,17 +229,19 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 """
     
     RKN_PROGRESS = """<b>
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
-
-┃    🗂️ ꜱɪᴢᴇ: {1} │ {2}
-
-┃    📊 ᴅᴏɴᴇ: {0}%
-
-┃    🚀 ꜱᴘᴇᴇᴅ: {3}/s
-
-┃    ⏳ ᴇᴛᴀ: {4}
-
-╰━━━━━━━━━━━━━━━➣
+╭━━━━━━━━━━━━━━━━❰ <span style="color:#3498db;">📤 PROGRESS BAR 📥</span> ❱━━━━━━━━━━━━━━━━╮
+┃
+┃ 🔹 <b>File:</b> <code style="color:#e74c3c; font-weight:bold;">{5}</code>  <!-- Red filename for emphasis -->
+┃ 🔹 <b>Flow:</b> <span style="color:#2ecc71;">[{6}] {0}%</span>  <!-- Green progress -->
+┃
+┃ 📦 <span style="color:#f39c12;">Size:</span> <i>{1}</i> / <i>{2}</i>  <!-- Orange size labels -->
+┃ 🚀 <span style="color:#9b59b6;">Speed:</span> <i>{3}/s</i>  <!-- Purple speed -->
+┃ ⏱️ <span style="color:#1abc9c;">Time:</span> <i>{4}</i>  <!-- Teal time -->
+┃
+┃ 🕒 <span style="color:#95a5a6;">Started:</span> <i>{8}</i>  <!-- Gray for metadata -->
+┃ 🔋 <span style="color:#3498db;">ETA:</span> <b>{9}</b>  <!-- Blue ETA -->
+┃
+╰━━━━━━━━━━━━━━━━━━━━━━❰ <span style="color:#f1c40f;">✨</span> ❱━━━━━━━━━━━━━━━━━━━━━━╯
 </b>"""
 
 # Rkn Developer 
