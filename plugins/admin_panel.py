@@ -81,7 +81,7 @@ async def add_premium(client, message):
 
         time_string = " ".join(message.command[3:])
 
-        time_zone = datetime.datetime.now(pytz.timezone("Asia/Kolkata"))
+        time_zone = datetime.datetime.now(pytz.timezone("Africa/Nairobi"))
         current_time = time_zone.strftime("%d-%m-%Y\n⏱️ ᴊᴏɪɴɪɴɢ ᴛɪᴍᴇ : %I:%M:%S %p")
 
         user = await client.get_users(user_id)
@@ -122,7 +122,7 @@ async def add_premium(client, message):
         user_id = int(message.command[1])
         time_string = " ".join(message.command[2:])
 
-        time_zone = datetime.datetime.now(pytz.timezone("Asia/Kolkata"))
+        time_zone = datetime.datetime.now(pytz.timezone("Africa/Nairobi"))
         current_time = time_zone.strftime("%d-%m-%Y\n⏱️ ᴊᴏɪɴɪɴɢ ᴛɪᴍᴇ : %I:%M:%S %p")
 
         user = await client.get_users(user_id)        
