@@ -82,7 +82,7 @@ Transform your files effortlessly with this powerful, feature-rich bot! 🚀
 🔹 Edit metadata.
 
 
-💡 Fast, reliable, and packed with premium features—all in one bot!
+<i>💡 Fast, reliable, and packed with premium features—all in one bot!</i>
 
 Tʜɪs Bᴏᴛ ɪꜱ ʜᴏꜱᴛᴇᴅ Bʏ : @modstorexd ꜰᴛ ꜱᴜꜱᴇʀ @xspes🚀</b>"""
 
