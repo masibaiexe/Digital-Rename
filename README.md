@@ -92,7 +92,7 @@ python3 bot.py
 ```
 
 
-###FOR VPS HOSTING
+### FOR VPS HOSTING
 
 - PM [NAm](https://t.me/xspes) for cheap VPS hosting and guide if issue arise 
 
