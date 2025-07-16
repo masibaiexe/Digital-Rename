@@ -90,11 +90,12 @@ class rkn(object):
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : {}
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : {}
-├📕 Lɪʙʀᴀʀy : {}
+├📕 Lɪʙʀᴀʀʏ : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
 ├☁️ Pʟᴀᴛꜰᴏʀᴍ: <a href=https://aws.amazon.com/>AWS</a>
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>{}</a></b>     
+├👑 Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/xspes>NAm</a>
+├📊 ᴠᴇʀꜱɪᴏɴ: <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
