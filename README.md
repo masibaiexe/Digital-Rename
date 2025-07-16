@@ -47,6 +47,51 @@
 <a href="https://heroku.com/deploy?template=https://github.com/DigitalBotz/Digital-Rename-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
 </details>
 
+### Deploy on VPS
+
+ * Clone the Repo.
+
+```
+git clone https://github.com/yuIlariy/Digital-Rename-Bot
+```
+ * Move to the Repo Folder in the VPS.
+
+```
+cd Digital-Rename-Bot
+```
+ * Inside the cloned folder edit config.py and install the pip, by the following command.
+
+```
+apt install python3-pip
+```
+
+ * Make sure you update your directory once you installed pip
+ ```
+ sudo apt update && apt upgrade -y
+ ```
+ 
+ * Install the required modules using the following command.
+
+```
+pip install -r requirements.txt
+```
+
+ * If you want to run the bot 24x7, then use this command to create a nested background environment.
+
+```
+sudo apt install tmux
+```
+
+```
+tmux
+```
+* If you don't use tmux, then you can directly use this command after the requirements.txt is installed in your VPS.
+ 
+```
+python3 bot.py
+```
+
+
 ## Rᴇǫᴜɪʀᴇᴅ Cᴏɴғɪɢs
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
