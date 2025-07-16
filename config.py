@@ -71,20 +71,20 @@ class rkn(object):
     # part of text configuration
     START_TXT = """<b>Ｈ𝙰𝙸, {}👋
 
-✨ An Advanced File Renamer & Media Converter Bot ✨
+✨ Welcome To AI Renamer & Media Magician Bot
 
-Transform your files effortlessly with this powerful, feature-rich bot! 🚀  
+📂 Transform your files with AI power! ✨
 
-🔹 Rename files with ease  
-🔹 Customize thumbnails
-🔹 Convert videos to files and files to videos seamlessly
-🔹 Add custom captions
-🔹 Edit metadata.
+🛠 FEATURES:
+✅ Rename files in seconds! ✏️
+✅ Custom thumbnails 🖼️
+✅ Convert videos ↔ files easily! 🎥⇄📄
+✅ Add custom captions 📝
+✅ Edit metadata with Easy! 🔍
 
+<i>🌟 Blazing fast, AI-powered, and loaded with premium features! 🚀</i>
 
-<i>💡 Fast, reliable, and packed with premium features—all in one bot!</i>
-
-Tʜɪs Bᴏᴛ ɪꜱ ʜᴏꜱᴛᴇᴅ Bʏ : @modstorexd ꜰᴛ ꜱᴜꜱᴇʀ @xspes🚀</b>"""
+💎 ʜᴏꜱᴛᴇᴅ Bʏ: @modstorexd ꜰᴛ ꜱᴜꜱᴇʀ @xspes 🚀</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
