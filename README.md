@@ -163,9 +163,10 @@ broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 
 - Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
 - Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
+- Thanks To [NAm](https://t.me/xspes) the very newest repo modifier and fix issue 🤩
 - Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
 - Thanks To Rkn Developer Teams ✅ (Edit & New Feature Added)
 - Special Repo Owner Thanks To Digital Botz 🥲
 
 ## Last Updated
-- `03-02-2024 08:45:30 PM`
+- `16-07-2025 06:28:30 PM`
