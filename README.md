@@ -62,7 +62,7 @@ cd Digital-Rename-Bot
  * Inside the cloned folder edit config.py and install the pip, by the following command.
 
 ```
-apt install python3-pip
+sudo apt install python3-pip
 ```
 
  * Make sure you update your directory once you installed pip
