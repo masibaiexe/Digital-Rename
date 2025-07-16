@@ -93,6 +93,7 @@ class rkn(object):
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
+├☁️ Pʟᴀᴛꜰᴏʀᴍ: <a href=https://aws.amazon.com/>AWS</a>
 ├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>{}</a></b>     
 ╰───────────────⍟ """
 
