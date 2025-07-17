@@ -21,7 +21,7 @@
 
 ### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Digital Rename Bot)
 
-* [Rkn_RenameBot](http://t.me/Rkn_RenameBot)
+* [AI_RenameBot](http://t.me/airenamexBot)
 * [Digital_Rename_Bot](http://t.me/Digital_Rename_Bot)
 
 
@@ -70,7 +70,7 @@ sudo apt install python3-pip
  sudo apt update && apt upgrade -y
  ```
  
- * Install the required modules using the following command.
+ * Install the required modules using the following command. You may need a virtual environment.
 
 ```
 pip install -r requirements.txt
@@ -168,7 +168,7 @@ broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
 
 - Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
 - Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
-- Thanks To [NAm](https://t.me/xspes) the very newest repo modifier and fix issue 🤩
+- Thanks To [NAm](https://t.me/xspes) the very newest repo modifier and fix issue 🤩(now the very me🤣)
 - Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
 - Thanks To Rkn Developer Teams ✅ (Edit & New Feature Added)
 - Special Repo Owner Thanks To Digital Botz 🥲
