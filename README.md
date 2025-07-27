@@ -72,23 +72,33 @@ sudo apt install python3-pip
  
  * Install the required modules using the following command. You may need a virtual environment.
 
+```bash
+python3 -m venv speedo
+source speedo/bin/activate
+```
+
 ```
 pip install -r requirements.txt
 ```
 
  * If you want to run the bot 24x7, then use this command to create a nested background environment.
 
+```bash
+screen -S renn
 ```
-sudo apt install tmux
+```bash
+python3 bot.py
 ```
 
+Detach: `Ctrl + A`, then `Ctrl + D`  
+
+Resume: 
+```bash
+screen -r renn
 ```
-tmux
-```
-* If you don't use tmux, then you can directly use this command after the requirements.txt is installed in your VPS.
- 
-```
-python3 bot.py
+Stop: `Ctrl + C`, then 
+```bash
+screen -S renn -X quit
 ```
 
 
