@@ -73,8 +73,8 @@ sudo apt install python3-pip
  * Install the required modules using the following command. You may need a virtual environment.
 
 ```bash
-python3 -m venv speedo
-source speedo/bin/activate
+python3 -m venv renn
+source renn/bin/activate
 ```
 
 ```
