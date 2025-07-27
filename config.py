@@ -84,7 +84,7 @@ class rkn(object):
 
 <i>🌟 Blazing fast, AI-powered, and loaded with premium features! 🚀</i>
 
-💎Powered By @xspes 🚀</b>"""
+<i>💎Powered By</i> @xspes 🚀</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
