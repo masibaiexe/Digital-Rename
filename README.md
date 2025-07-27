@@ -78,7 +78,7 @@ source renn/bin/activate
 ```
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
  * If you want to run the bot 24x7, then use this command to create a nested background environment.
