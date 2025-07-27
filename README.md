@@ -92,11 +92,6 @@ python3 bot.py
 ```
 
 
-### FOR VPS HOSTING
-
-- PM [NAm](https://t.me/xspes) for cheap VPS hosting and guide if issue arise 
-
-
 ## Rᴇǫᴜɪʀᴇᴅ Cᴏɴғɪɢs
 
 * `BOT_TOKEN`  - Get Bot Token From @BotFather
