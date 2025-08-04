@@ -95,7 +95,7 @@ class rkn(object):
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
 ├☁️ Pʟᴀᴛꜰᴏʀᴍ: <a href=https://aws.amazon.com/>AWS</a>
 ├👑 Mᴀɪɴᴛᴀɪɴᴇʀ: <a href=https://t.me/xspes>NAm</a>
-├📊 ᴠᴇʀꜱɪᴏɴ: <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>{}</a></b>     
+├📊 ᴠᴇʀꜱɪᴏɴ: <a href=https://github.com/yuIlariy/Digital-Rename-Bot>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -209,7 +209,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
     # ᴡʜᴏᴇᴠᴇʀ ɪs ᴅᴇᴘʟᴏʏɪɴɢ ᴛʜɪs ʀᴇᴘᴏ ɪs ᴡᴀʀɴᴇᴅ ⚠️ ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ #ғɪʀsᴛ ᴀɴᴅ ʟᴀsᴛ ᴡᴀʀɴɪɴɢ ⚠️
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
     
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital-Rename-Bot</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/yuIlariy/Digital-Rename-Bot>Digital-Rename-Bot</a>
 
 • ❣️ <a href=https://github.com/RknDeveloper>RknDeveloper</a>
 • ❣️ <a href=https://github.com/DigitalBotz>DigitalBotz</a>
