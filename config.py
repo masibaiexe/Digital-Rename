@@ -230,7 +230,15 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Digital_Botz
 """
     
-    RKN_PROGRESS = """<b>
+def get_speed_icon(speed: float) -> str:
+    """
+    Returns a speed icon based on the speed in bytes per second.
+    🚀 for fast speeds (>= 8MB/s), 🚨 for slow speeds.
+    """
+    threshold = 8 * 1024 * 1024  # 8 MB/s
+    return "🚀" if speed >= threshold else "🚨"
+
+RKN_PROGRESS = """<b>
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 
 ┃    🗂️ ᴄᴏᴍᴘʟᴇᴛᴇᴅ: {1}
@@ -239,7 +247,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @Digital_Botz`
 
 ┃    🔋 ꜱᴛᴀᴛᴜꜱ: {0}%
 
-┃    🚀 ꜱᴘᴇᴇᴅ: {3}/s
+┃    {5} ꜱᴘᴇᴇᴅ: {3}/s
 
 ┃    ⏰ ᴇᴛᴀ: {4}
 
